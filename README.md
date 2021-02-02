@@ -8,7 +8,7 @@ ZTF Cosmo Group Data release
 
 ***
 ## Use the `ztfdr` package to access the data
-You are invited to use the (`ztfdr`)[(https://github.com/MickaelRigault/ztfdr)] package to access the data. Please ask Mickael Rigault access to it if necessary.
+You are invited to use the [`ztfdr`](https://github.com/MickaelRigault/ztfdr) package to access the data. Please ask Mickael Rigault access to it if necessary.
 
 Assuming you cloned the ztfcosmodr directory under `~/data/ztf/ztfcosmodr`, then 
 ```python
