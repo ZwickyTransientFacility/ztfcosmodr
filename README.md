@@ -26,7 +26,7 @@ ztfdr1.lcdata
 
 see also `ztfdr1.lightcurves.data` and `ztfdr1.saltresults.parameters` (and full data under `ztfdr1.saltresults.data`). 
 
-The selection criteria are accessible as `ztfdr1.get_selection_criteria(SEE_OPTIONS)` which returns a Dataframe will all the selection cuts. 
+The selection criteria are accessible as `ztfdr1.get_selection_criteria(SEE_OPTIONS)` which returns a Dataframe with all the selection cuts. 
 The target names passing all the default cuts are accessible as `ztfdr1.get_targetnames("gold")`.
 
 To see a lightcurves (in days or in phase see the `as_phase` option) simply do:
