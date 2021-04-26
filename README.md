@@ -2,7 +2,7 @@
 DataRelease repository for the ZTFIaCosmo group
 
 ***
-ZTF Cosmo Group Data release 
+ZTF Cosmo Group Data release  
 ***
 
 
